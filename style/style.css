@@ -1,0 +1,37 @@
+#title {
+    text-align: center;
+}
+
+#nav {
+    background-color: #d1dbe2;
+    opacity: 0,5;
+    position: sticky;
+    border-style: inset 2px solid black;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+h2,h3, #media {
+    text-align: center;
+    background-color: #d1dbe2;
+  }
+
+p {
+    text-align: justify;
+}  
+
+#footer {
+    text-align: center;
+}
+
+#lbj {
+    text-align: center;
+}
+
+#body {
+    background-color: #f4b994;
+}
